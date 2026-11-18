@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
     LocaleController controller = Get.put(LocaleController());
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Structure',
+      title: '39'.tr,
       locale: controller.language,
       translations: MyTranslation(),
       theme: controller.appTheme,
@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ), */
-      initialRoute: AppRoutes.home,
+      // initialRoute: AppRoutes.home,
       getPages: AppPages.pages,
     );
   }

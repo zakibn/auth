@@ -45,6 +45,7 @@ class MyTranslation extends Translations {
       "37": "تهانينا",
       "38": "تم التسجيل بنجاح",
       "39": " هيكلة فلاتر ",
+      "40": " توصيل سريع",
     },
     "en": {
       "1": "Choose Language",
@@ -88,6 +89,7 @@ class MyTranslation extends Translations {
       "37": "congratulations",
       "38": "successfully registered",
       "39": "Flutter Structure",
+      "40": "Fast Delivery",
     },
   };
 }

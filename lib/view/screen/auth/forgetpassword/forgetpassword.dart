@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../../../../controller/forgetpassword/forgetpassword_controller.dart';
-import '../../../../core/Class/handlingdataview.dart';
-import '../../../../core/Constant/color.dart';
+import '../../../../core/class/handlingdataview.dart';
+import '../../../../core/constant/color.dart';
 import '../../../widget/auth/custombuttonauth.dart';
 import '../../../widget/auth/customtextbodyauth.dart';
 import '../../../widget/auth/customtextformauth.dart';

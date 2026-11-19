@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
 
-import '../../core/Constant/app_routes.dart';
+import '../../core/constant/app_routes.dart';
 
 abstract class SuccessResetPasswordController extends GetxController {
   goToPageLogin();

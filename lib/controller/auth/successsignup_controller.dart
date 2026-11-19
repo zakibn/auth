@@ -1,4 +1,4 @@
-import 'package:auth/core/Constant/app_routes.dart';
+import 'package:auth/core/constant/app_routes.dart';
 import 'package:get/get.dart';
 
 abstract class SuccessSignUpController extends GetxController {

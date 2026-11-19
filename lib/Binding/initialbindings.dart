@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
 
-import '../core/Class/crud.dart';
+import '../core/class/crud.dart';
 
 /// Register app-wide dependencies here when the app needs them.
 /// Screen-specific controllers are preferably registered in their own Bindings.

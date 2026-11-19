@@ -3,7 +3,7 @@ import 'package:lottie/lottie.dart';
 
 import '../constant/imgaeasset.dart';
 // import 'statusrequest.dart';
-import 'package:auth/core/Class/statusrequest.dart';
+import 'package:auth/core/class/statusrequest.dart';
 
 class HandlingDataView extends StatelessWidget {
   final StatusRequest statusRequest;

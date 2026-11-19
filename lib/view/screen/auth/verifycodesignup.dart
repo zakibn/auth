@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../../../controller/auth/verfiycodesignup_controller.dart';
-import '../../../core/Class/handlingdataview.dart';
-import '../../../core/Constant/color.dart';
+import '../../../core/class/handlingdataview.dart';
+import '../../../core/constant/color.dart';
 import '../../widget/auth/customtextbodyauth.dart';
 import '../../widget/auth/customtexttitleauth.dart';
 import 'package:otp_text_field/otp_field.dart';

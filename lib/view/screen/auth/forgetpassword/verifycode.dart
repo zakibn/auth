@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../../../../controller/forgetpassword/verifycode_controller.dart';
-import '../../../../core/Constant/color.dart';
+import '../../../../core/constant/color.dart';
 import '../../../widget/auth/customtextbodyauth.dart';
 import '../../../widget/auth/customtexttitleauth.dart';
 import 'package:otp_text_field/otp_field.dart';

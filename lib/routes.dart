@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 
 import 'Binding/home_binding.dart';
-import 'core/Constant/app_routes.dart';
+import 'core/constant/app_routes.dart';
 import 'view/screen/auth/forgetpassword/forgetpassword.dart';
 import 'view/screen/auth/forgetpassword/resetpassword.dart';
 import 'view/screen/auth/forgetpassword/success_resetpassword.dart';

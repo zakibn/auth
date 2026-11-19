@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 
-import '../../core/Class/statusrequest.dart';
-import '../../core/Constant/app_routes.dart';
+import '../../core/class/statusrequest.dart';
+import '../../core/constant/app_routes.dart';
 import '../../core/functions/handingdatacontroller.dart';
 import '../../data/datasource/remote/forgetpassword/checkemail.dart';
 

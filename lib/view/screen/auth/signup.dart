@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../../../controller/auth/signup_controller.dart';
-import '../../../core/Class/handlingdataview.dart';
-import '../../../core/Constant/color.dart';
+import '../../../core/class/handlingdataview.dart';
+import '../../../core/constant/color.dart';
 import '../../../core/functions/alertexitapp.dart';
 import '../../../core/functions/validinput.dart';
 import '../../widget/auth/custombuttonauth.dart';

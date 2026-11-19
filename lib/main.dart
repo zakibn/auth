@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
+import 'Binding/initialbindings.dart';
 import 'core/Constant/app_routes.dart';
 import 'core/localization/changelocal.dart';
 import 'core/localization/translation.dart';
@@ -30,6 +31,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ), */
       // initialRoute: AppRoutes.home,
+      initialBinding: InitialBindings(),
       getPages: AppPages.pages,
     );
   }

@@ -39,6 +39,7 @@ dependencies:
   http: ^1.6.0
   lottie: ^3.3.1
   shared_preferences: ^2.5.3
+  otp_text_field: ^1.1.5
 
 dev_dependencies:
   flutter_test:
